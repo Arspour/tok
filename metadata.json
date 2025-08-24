@@ -1,0 +1,14 @@
+cat > metadata.json << 'EOF'
+{
+  "name": "beard",
+  "symbol": "BRD",
+  "description": "THE BEAR+D.",
+  "image": "https://www.vhv.rs/dpng/d/522-5220527_transparent-cartoon-bear-png-png-download.png",
+  "external_url": "https://YOUR-DOMAIN/",
+  "attributes": [],
+  "properties": {
+    "category": "token",
+    "creators": []
+  }
+}
+EOF
