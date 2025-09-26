@@ -1,0 +1,12 @@
+{
+  "name": "qwe",
+  "symbol": "qwe",
+  "description": "A minimal token.",
+  "image": "https://www.vhv.rs/dpng/d/522-5220527_transparent-cartoon-bear-png-png-download.png",
+  "external_url": "https://YOUR-DOMAIN/",
+  "attributes": [],
+  "properties": {
+    "category": "token",
+    "creators": []
+  }
+}
